@@ -1,3 +1,5 @@
 # Color-Diffusion
 
-# Normal Diffusion Model
+## Normal Diffusion Model
+
+## Color Diffusion Model
